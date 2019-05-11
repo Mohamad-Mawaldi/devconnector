@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mohamad:mohamad@cluster0-hlsai.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://mohamad:mohamad@cluster0-hlsai.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "jwtSecretBOY"
 }
